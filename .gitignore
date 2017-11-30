@@ -1,0 +1,6 @@
+syntax: glob
+
+## patterns
+
+build/
+app/build/
